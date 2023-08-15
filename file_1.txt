@@ -2,3 +2,7 @@ This is the additional line
 This is the Chuck Test
 File for Git
 Tue Aug 15 2023
+
+Thanks for coming to class!
+Hope you have a great day!
+:-)
